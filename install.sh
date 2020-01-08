@@ -1,3 +1,10 @@
+#!/bin/sh
+sudo apt-get update && apt-get upgrade -y && apt-get install htop -y
+sudo apt-get update && sudo apt-get install vlc vlc-plugin-* -y && sudo apt-get install vlc browser-plugin-vlc -y
+sudo apt-get install psmisc
+sudo apt-get install unzip
+sudo apt-get install unrar
+
 wget https://raw.githubusercontent.com/marconimp/4.5.18-offline/master/flussonic-erlang_18.0.1_amd64.deb
 wget https://raw.githubusercontent.com/marconimp/4.5.18-offline/master/flussonic-python_2.7.3_amd64.deb
 wget https://raw.githubusercontent.com/marconimp/4.5.18-offline/master/flussonic-ffmpeg_4.1_amd64.deb
