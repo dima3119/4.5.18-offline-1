@@ -8,3 +8,13 @@ chmod +x install.sh
 
 
 /etc/init.d/flussonic run
+
+
+
+flussonic neustarten
+
+/etc/init.d/flussonic stop
+/etc/init.d/flussonic start
+
+username: flussonic
+password: letmein!
