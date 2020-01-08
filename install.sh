@@ -1,3 +1,7 @@
+https://raw.githubusercontent.com/marconimp/4.5.18-offline/master/flussonic-erlang_18.0.1_amd64.deb
+https://raw.githubusercontent.com/marconimp/4.5.18-offline/master/flussonic-python_2.7.3_amd64.deb
+https://raw.githubusercontent.com/marconimp/4.5.18-offline/master/flussonic-ffmpeg_4.1_amd64.deb
+
 dpkg -i flussonic-erlang_18.0.1_amd64.deb
 dpkg -i flussonic-python_2.7.3_amd64.deb
 dpkg -i flussonic-ffmpeg_4.1_amd64.deb
