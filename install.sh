@@ -11,7 +11,7 @@ wget https://raw.githubusercontent.com/marconimp/4.5.18-offline/master/flussonic
 wget https://raw.githubusercontent.com/marconimp/4.5.18-offline/master/flussonic_4.5.18_amd64.deb
 wget https://raw.githubusercontent.com/marconimp/4.5.18-offline/master/hack.zip
 
-hack.zip && unzip hack.zip
+unzip hack.zip
 
 dpkg -i flussonic-erlang_18.0.1_amd64.deb
 dpkg -i flussonic-python_2.7.3_amd64.deb
