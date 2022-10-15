@@ -6,11 +6,11 @@ sudo apt-get install unzip
 sudo apt-get install unrar
 
 
-wget https://raw.github.com/tobi2021lol/4.5.18-offline/master/flussonic-erlang_18.0.1_amd64.deb
-wget https://raw.github.com/tobi2021lol/4.5.18-offline/master/flussonic-python_2.7.3_amd64.deb
-wget https://raw.github.com/tobi2021lol/4.5.18-offline/master/flussonic-ffmpeg_4.1_amd64.deb
-wget https://raw.github.com/tobi2021lol/4.5.18-offline/master/flussonic_4.5.18_amd64.deb
-wget https://raw.github.com/tobi2021lol/4.5.18-offline/master/hack.zip
+wget https://raw.github.com/dima3119/4.5.18-offline/master/flussonic-erlang_18.0.1_amd64.deb
+wget https://raw.github.com/dima3119/4.5.18-offline/master/flussonic-python_2.7.3_amd64.deb
+wget https://raw.github.com/dima3119/4.5.18-offline/master/flussonic-ffmpeg_4.1_amd64.deb
+wget https://raw.github.com/dima3119/4.5.18-offline/master/flussonic_4.5.18_amd64.deb
+wget https://raw.github.com/dima3119/4.5.18-offline/master/hack.zip
 
 unzip hack.zip
 
